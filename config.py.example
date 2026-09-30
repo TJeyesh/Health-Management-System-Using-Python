@@ -1,0 +1,7 @@
+# Configuration file containing authentication credentials and database name
+# Copy this file to config.py if not already present
+
+password = '1234'                               # User authentication password
+database_name = 'database_1A'                   # Active database file prefix (e.g. database_1A, database_v2_2)
+edit_mode_password = 'allow_edit'               # Edit mode password for Patient, Doctor, and Department records
+dr_mls_access_code = 'access_auth'              # Doctor / Medical Lab Scientist (MLS) access code
